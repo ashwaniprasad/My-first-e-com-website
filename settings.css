@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 May, 2020, 12:14:27 AM
+    Author     : ASHWANI PRASAD
+*/
+.container-fluid {
+    background-color:#000; 
+    color:white; 
+    border-color: #080808; 
+    min-height: 50px; 
+    border: 1px solid transparent;
+    font-family: calibri;
+}
+.inner-header{
+    width:80%; 
+    margin:auto;
+}
+.navbar-brand{
+    float: left; 
+    height: 50px; 
+    padding: 15px; 
+    font-size: 25px; 
+    font-weight: bold;
+}
+.setting{
+    text-align: center;
+    margin-top: 100px;
+    color: cadetblue;
+    margin-bottom: 50px;
+}
+
+.form-group{
+    width: 20%;
+}
+/*.container{
+    margin-left: 0;
+}*/
+
+/*.form{
+    margin-left: 45%;
+}*/
+.foot_container{
+ font-family: sans-serif;
+ text-align: center;
+ padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+ border-bottom: 0;
+ position: absolute;
+ overflow: auto;
+ margin-left: -5.45%;
+ }

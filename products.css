@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21 May, 2020, 4:33:41 PM
+    Author     : ASHWANI PRASAD
+*/
+.container-fluid {
+    background-color:#000; 
+    color:white; 
+    border-color: #080808; 
+    min-height: 50px; 
+    border: 1px solid transparent;
+    font-family: calibri;
+}
+.inner-header{
+    width:80%; 
+    margin:auto;
+}
+.navbar-brand{
+    float: left; 
+    height: 50px; 
+    padding: 15px; 
+    font-size: 25px; 
+    font-weight: bold;
+}
+ .thumbnail{
+   display: block;
+   max-width: 100%; 
+   height: auto;  
+ }
+ .caption{
+     color:#000; 
+     padding:0px 10px 10px; 
+     font-weight: bold; 
+     text-align: center;
+     font-family: georgia;
+ }
+ .nounderline{
+     text-decoration: none !important;
+ }
+ .price{
+     color: #ac2925;
+     font-family: calibri;
+ }
+ .btn{
+     font-family: arial;
+     
+ }
+ .column_style{
+  width:23.5%; 
+  display: block; 
+  padding: 5px; 
+  margin-bottom: 20px;
+  margin-top: 20px;
+  line-height: 1.42857143; 
+  background-color: #fff; 
+  border: 1px solid #ddd; 
+  border-radius: 4px; 
+  float:left; 
+  margin-left:1.25%;
+ }
+ .jumbotron{
+     text-align: center;
+     
+ }
+
+.jumbotron-note {
+color: #9d9d9d;
+}
+
+.foot_container{
+ font-family: sans-serif;
+ text-align: center;
+ padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+ border-bottom: 0;
+ }
